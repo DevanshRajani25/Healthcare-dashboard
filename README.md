@@ -1,7 +1,7 @@
 # Healthcare PowerBI dashboard
 This Health Care Analysis Dashboard provides a comprehensive view of patient health statistics, including risk factors, demographic distribution, and lifestyle impacts.
 
-📊 Key Insights
+# 📊 Key Insights
 ## 1. Overview of Patients
 Total Patients: 5,191
 Female Not Overweight: 1,409
